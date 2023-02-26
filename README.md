@@ -56,6 +56,7 @@
 <strong style="display: inline-block; margin-right: 6px;">Backend: </strong> 
 <img src="https://img.shields.io/badge/JAVA-5283a3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBzdHlsZT0iY29sb3I6IHdoaXRlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODQgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgRnJlZSA2LjEuMSBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIChJY29uczogQ0MgQlkgNC4wLCBGb250czogU0lMIE9GTCAxLjEsIENvZGU6IE1JVCBMaWNlbnNlKSBDb3B5cmlnaHQgMjAyMiBGb250aWNvbnMsIEluYy4gLS0+PHBhdGggZD0iTTI3Ny43NCAzMTIuOWM5LjgtNi43IDIzLjQtMTIuNSAyMy40LTEyLjVzLTM4LjcgNy03Ny4yIDEwLjJjLTQ3LjEgMy45LTk3LjcgNC43LTEyMy4xIDEuMy02MC4xLTggMzMtMzAuMSAzMy0zMC4xcy0zNi4xLTIuNC04MC42IDE5Yy01Mi41IDI1LjQgMTMwIDM3IDIyNC41IDEyLjF6bS04NS40LTMyLjFjLTE5LTQyLjctODMuMS04MC4yIDAtMTQ1LjhDMjk2IDUzLjIgMjQyLjg0IDAgMjQyLjg0IDBjMjEuNSA4NC41LTc1LjYgMTEwLjEtMTEwLjcgMTYyLjYtMjMuOSAzNS45IDExLjcgNzQuNCA2MC4yIDExOC4yem0xMTQuNi0xNzYuMmMuMSAwLTE3NS4yIDQzLjgtOTEuNSAxNDAuMiAyNC43IDI4LjQtNi41IDU0LTYuNSA1NHM2Mi43LTMyLjQgMzMuOS03Mi45Yy0yNi45LTM3LjgtNDcuNS01Ni42IDY0LjEtMTIxLjN6bS02LjEgMjcwLjVhMTIuMTkgMTIuMTkgMCAwIDEtMiAyLjZjMTI4LjMtMzMuNyA4MS4xLTExOC45IDE5LjgtOTcuM2ExNy4zMyAxNy4zMyAwIDAgMC04LjIgNi4zIDcwLjQ1IDcwLjQ1IDAgMCAxIDExLTNjMzEtNi41IDc1LjUgNDEuNS0yMC42IDkxLjR6TTM0OCA0MzcuNHMxNC41IDExLjktMTUuOSAyMS4yYy01Ny45IDE3LjUtMjQwLjggMjIuOC0yOTEuNi43LTE4LjMtNy45IDE2LTE5IDI2LjgtMjEuMyAxMS4yLTIuNCAxNy43LTIgMTcuNy0yLTIwLjMtMTQuMy0xMzEuMyAyOC4xLTU2LjQgNDAuMkMyMzIuODQgNTA5LjQgNDAxIDQ2MS4zIDM0OCA0MzcuNHpNMTI0LjQ0IDM5NmMtNzguNyAyMiA0Ny45IDY3LjQgMTQ4LjEgMjQuNWExODUuODkgMTg1Ljg5IDAgMCAxLTI4LjItMTMuOGMtNDQuNyA4LjUtNjUuNCA5LjEtMTA2IDQuNS0zMy41LTMuOC0xMy45LTE1LjItMTMuOS0xNS4yem0xNzkuOCA5Ny4yYy03OC43IDE0LjgtMTc1LjggMTMuMS0yMzMuMyAzLjYgMC0uMSAxMS44IDkuNyA3Mi40IDEzLjYgOTIuMiA1LjkgMjMzLjgtMy4zIDIzNy4xLTQ2LjkgMCAwLTYuNCAxNi41LTc2LjIgMjkuN3pNMjYwLjY0IDM1M2MtNTkuMiAxMS40LTkzLjUgMTEuMS0xMzYuOCA2LjYtMzMuNS0zLjUtMTEuNi0xOS43LTExLjYtMTkuNy04Ni44IDI4LjggNDguMiA2MS40IDE2OS41IDI1LjlhNjAuMzcgNjAuMzcgMCAwIDEtMjEuMS0xMi44eiIgZmlsbD0id2hpdGUiPjwvcGF0aD48L3N2Zz4=&logoColor=white" style="display: inline-block; margin-right: 6px;">
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" style="display: inline-block; margin-right: 6px;">
+<img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" style="display: inline-block; margin-right: 6px;">
 <img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=&logoColor=white" style="display: inline-block; margin-right: 6px;">
 <img src="https://img.shields.io/badge/MYBATIS-1e1818?style=for-the-badge&logo=&logoColor=white" style="display: inline-block; margin-right: 6px;">
 <img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=Gradle&logoColor=white" style="display: inline-block; margin-right: 6px;">
@@ -77,103 +78,176 @@ STOMP는 TCP 또는 WebSocket 같은 양방향 네트워크 프로토콜 기반�
 - **채팅방 생성**: pub / sub 구현을 위한 Topic이 생성됨
 - **채팅방 입장:** Topic 구독
 - **채팅방에서 메세지를 송수신**: 해당 Topic으로 메세지를 송신(pub), 메세지를 수신(sub)  
+  
+  <br>
+- **StompWebSocketConfig**: 커넥션을 위한 STOMP Endpoint를 설정
+    ```java
+    @Configuration
+    @EnableWebSocketMessageBroker
+    public class StompWebSocketConfig implements WebSocketMessageBrokerConfigurer {
 
-StompWebSocketConfig
-```java
-@Configuration
-@EnableWebSocketMessageBroker
-public class StompWebSocketConfig implements WebSocketMessageBrokerConfigurer {
-
-    @Override
-    public void registerStompEndpoints(StompEndpointRegistry registry) {
-        // stomp 접속 주소 url "/stomp/chat"
-        registry.addEndpoint("/stomp/chat") // 연결될 엔드포인트, WebSocket 또는 SockJS Client가 웹소켓 핸드셰이크 커넥션을 생성할 경로
-                .withSockJS(); // SocketJs 를 연결
-    }
-
-    @Override
-    public void configureMessageBroker(MessageBrokerRegistry registry) {
-        // 메시지를 발행하는 요청 url, 메시지를 보낼 때, @Controller 객체의 @MessageMapping 메서드로 라우팅
-        registry.setApplicationDestinationPrefixes("/pub");
-
-        // 메시지를 구독하는 요청 url, 메시지를 받을 때
-        // 내장된 메세지 브로커를 사용해 Client에게 Subscriptions, Broadcasting 기능을 제공
-        registry.enableSimpleBroker("/sub");
-
-    }
-}
-```
-`@EnableWebSocketMessageBroker`: Stomp를 사용하기위해 선언하는 어노테이션  
-`setApplicationDestinationPrefixes`: Client에서 SEND 요청을 처리  
-`enableSimpleBroker`: 해당 경로로 SimpleBroker를 등록. SimpleBroker는 해당하는 경로를 SUBSCRIBE하는 Client에게 메세지를 전달하는 간단한 작업을 수행  
-`enableStompBrokerRelay`: SimpleBroker의 기능과 외부 Message Broker( RabbitMQ, ActiveMQ 등 )에 메세지를 전달하는 기능을 가짐  
-
-SockJS
-```javascript
-function connect(roomNum, userNum, userType, userCount) {
-    const sockJs = new SockJS("/stomp/chat");
-
-    //1. SockJS를 내부에 들고있는 stomp를 내어줌
-    const stomp = Stomp.over(sockJs);
-
-    //2. connection이 맺어지면 실행
-    stomp.connect({}, function (){
-        console.log("STOMP Connection");
-
-    //3. send(path, header, message)로 메세지를 보낼 수 있음
-    stomp.send('/pub/chat/enter', {}, JSON.stringify({chatRoomNum: roomNum, userNum: userNum, userType: userType, userCount: userCount}));
-
-    //4. subscribe(path, callback)으로 메세지를 받을 수 있음
-    stomp.subscribe("/sub/chat/room/" + roomNum, function (chat) {
-        const content = JSON.parse(chat.body);
-
-        const chatRoomNum = content.chatRoomNum;
-        const writer = content.chatWriter;
-        const message = content.chatContent;
-        const userType = content.userType;
-        const userCount = content.userCount;
-        const writeTime = content.createdDate;
-
-        let str = "";
-        if(userType === "L") {
-            str = $("<div class='d-flex flex-row p-3 justify-content-end' id='chat'>" +
-                "<div class='mx-1 text-end'>" +
-                "<div class='small text-end'>" + writer + " 변호사</div>" +
-                "<div style='display: flex'>" +
-                "<span class='d-inline-block mx-1 small text-secondary' style='min-width: 16%; margin-top: auto; font-size: 12px;'>" + writeTime + "</span>" +
-                "<div class='bg-light mr-2 p-3 d-inline-block text-start' style='max-width: 80%; border-radius: 20px'><span class='fs-6 text-muted text-break'>" + message +"</span></div>" +
-                "</div>" +
-                "</div>" +
-                "<img src='/display?fileName=" + "${chatRoom.chatUserVo.lawyerVo.lawyerImg}" + "' onerror=\"this.src='/resource/img/profile.png'\"; class=\"rounded-circle\" width=\"40\" height=\"40\">" +
-                "</div>")
-        } else {
-            str = $("<div class='d-flex flex-row p-3' id='chat'>" +
-                "<img src='/resource/img/profile.png' class='rounded-circle' width='40' height='40'>" +
-                "<div class='mx-1'>" +
-                "<div class='small'>" + writer + "</div>" +
-                "<div style='display: flex'>" +
-                "<div class='chat ml-2 p-3 fs-6 d-inline-block text-break' style='max-width: 80%'>" + message + "</div>" +
-                "<span class='d-inline-block mx-1 small text-secondary' style='min-width: 16%; margin-top: auto; font-size: 12px;'>" + writeTime + "</span>" +
-                "</div>" +
-                "</div>" +
-                "</div>")
+        @Override
+        public void registerStompEndpoints(StompEndpointRegistry registry) {
+            // stomp 접속 주소 url "/stomp/chat"
+            registry.addEndpoint("/stomp/chat") // 연결될 엔드포인트, WebSocket 또는 SockJS Client가 웹소켓 핸드셰이크 커넥션을 생성할 경로
+                    .withSockJS(); // SocketJs 를 연결
         }
-        $(".chat-box").append(str);
 
-        $(".chat-room").each(function (index, item) {
-            if ($(item).attr("data-num") == chatRoomNum) {
-                $(item).find(".user-count").text(userCount);
+        @Override
+        public void configureMessageBroker(MessageBrokerRegistry registry) {
+            // 메시지를 발행하는 요청 url, 메시지를 보낼 때, @Controller 객체의 @MessageMapping 메서드로 라우팅
+            registry.setApplicationDestinationPrefixes("/pub");
+
+            // 메시지를 구독하는 요청 url, 메시지를 받을 때
+            // 내장된 메세지 브로커를 사용해 Client에게 Subscriptions, Broadcasting 기능을 제공
+            registry.enableSimpleBroker("/sub");
+
+        }
+    }
+    ```
+    - `@EnableWebSocketMessageBroker`: Stomp를 사용하기위해 선언하는 어노테이션  
+    - `setApplicationDestinationPrefixes`: Client에서 SEND 요청을 처리  
+    - `enableSimpleBroker`: 해당 경로로 SimpleBroker를 등록. SimpleBroker는 해당하는 경로를 SUBSCRIBE하는 Client에게 메세지를 전달하는 간단한 작업을 수행  
+    - `enableStompBrokerRelay`: SimpleBroker의 기능과 외부 Message Broker( RabbitMQ, ActiveMQ 등 )에 메세지를 전달하는 기능을 가짐  
+  <br>
+- **SockJS**
+    ```javascript
+    function connect(roomNum, userNum, userType, userCount) {
+        const sockJs = new SockJS("/stomp/chat");
+
+        //1. SockJS를 내부에 들고있는 stomp를 내어줌
+        const stomp = Stomp.over(sockJs);
+
+        //2. connection이 맺어지면 실행
+        stomp.connect({}, function (){
+            console.log("STOMP Connection");
+
+        //3. send(path, header, message)로 메세지를 보낼 수 있음
+        stomp.send('/pub/chat/enter', {}, JSON.stringify({chatRoomNum: roomNum, userNum: userNum, userType: userType, userCount: userCount}));
+
+        //4. subscribe(path, callback)으로 메세지를 받을 수 있음
+        stomp.subscribe("/sub/chat/room/" + roomNum, function (chat) {
+            const content = JSON.parse(chat.body);
+
+            const chatRoomNum = content.chatRoomNum;
+            const writer = content.chatWriter;
+            const message = content.chatContent;
+            const userType = content.userType;
+            const userCount = content.userCount;
+            const writeTime = content.createdDate;
+
+            let str = "";
+            if(userType === "L") {
+                str = $("<div class='d-flex flex-row p-3 justify-content-end' id='chat'>" +
+                    "<div class='mx-1 text-end'>" +
+                    "<div class='small text-end'>" + writer + " 변호사</div>" +
+                    "<div style='display: flex'>" +
+                    "<span class='d-inline-block mx-1 small text-secondary' style='min-width: 16%; margin-top: auto; font-size: 12px;'>" + writeTime + "</span>" +
+                    "<div class='bg-light mr-2 p-3 d-inline-block text-start' style='max-width: 80%; border-radius: 20px'><span class='fs-6 text-muted text-break'>" + message +"</span></div>" +
+                    "</div>" +
+                    "</div>" +
+                    "<img src='/display?fileName=" + "${chatRoom.chatUserVo.lawyerVo.lawyerImg}" + "' onerror=\"this.src='/resource/img/profile.png'\"; class=\"rounded-circle\" width=\"40\" height=\"40\">" +
+                    "</div>")
+            } else {
+                str = $("<div class='d-flex flex-row p-3' id='chat'>" +
+                    "<img src='/resource/img/profile.png' class='rounded-circle' width='40' height='40'>" +
+                    "<div class='mx-1'>" +
+                    "<div class='small'>" + writer + "</div>" +
+                    "<div style='display: flex'>" +
+                    "<div class='chat ml-2 p-3 fs-6 d-inline-block text-break' style='max-width: 80%'>" + message + "</div>" +
+                    "<span class='d-inline-block mx-1 small text-secondary' style='min-width: 16%; margin-top: auto; font-size: 12px;'>" + writeTime + "</span>" +
+                    "</div>" +
+                    "</div>" +
+                    "</div>")
+            }
+            $(".chat-box").append(str);
+
+            $(".chat-room").each(function (index, item) {
+                if ($(item).attr("data-num") == chatRoomNum) {
+                    $(item).find(".user-count").text(userCount);
+                }
+            });
+
+            const max = $(".chat-scrollbar").height();
+            const height = $(".chat-box").height();
+            if (height > max) {
+                $(".chat-scrollbar").scrollTop(height);
             }
         });
-
-        const max = $(".chat-scrollbar").height();
-        const height = $(".chat-box").height();
-        if (height > max) {
-            $(".chat-scrollbar").scrollTop(height);
-        }
     });
-});
-```
+    ```
+  <br>
+- **StompChatController**: 메시지를 관리하기 위한 컨트롤러
+    ```java
+    @Slf4j
+    @RequiredArgsConstructor
+    @Controller
+    public class StompChatController {
+
+        public final SimpMessageSendingOperations template;  //특정 Broker로 메세지를 전달
+        private final ChatRoomService chatRoomService;
+        private final ChatService chatService;
+        private final ChatUserService chatUserService;
+
+        // @MessageMapping 을 통해 WebSocket으로 들어오는 메세지 발행을 처리
+        // Client가 SEND할 수 있는 경로
+        // stompConfig에서 설정한 applicationDestinationPrefixes와 @MessageMapping 경로가 병합됨 -> "/pub/chat/enter"
+        @MessageMapping("/chat/enter")
+        public void enter(@ModelAttribute ChatVo chatVo, SimpMessageHeaderAccessor headerAccessor) {
+            log.info("chatVo={}", chatVo);
+
+            ChatRoomVo chatRoomVo = chatRoomService.findChatRoom(chatVo.getChatRoomNum());
+            ChatUserVo chatUserVo = chatRoomVo.getChatUserVo();
+
+            if (chatUserVo.getLawyerVo() == null || chatUserVo.getClientVo() == null) {
+                chatUserService.addChatUser(chatVo); // 채팅 유저 등록
+            }
+            chatRoomService.incrementUserCount(chatRoomVo.getChatRoomNum()); // 채팅방 유저 + 1
+
+            chatRoomVo = chatRoomService.findChatRoom(chatRoomVo.getChatRoomNum());
+
+            chatVo = chatService.setChatVo(chatRoomVo, chatVo);
+            chatVo.setChatContent(chatVo.getChatWriter() + "님이 채팅방에 참여하였습니다.");
+            log.info("chatVo={}", chatVo);
+
+            headerAccessor.getSessionAttributes().put("chatVo", chatVo);
+
+            template.convertAndSend("/sub/chat/room/" + chatVo.getChatRoomNum(), chatVo);
+        }
+
+        @MessageMapping(value = "/chat/message")
+        public void message(@ModelAttribute ChatVo chatVo){
+            // Client에서는 해당 주소를 SUBSCRIBE하고 있다가 메세지가 전달되면 화면에 출력, 이때 /sub/chat/room/[roomId]는 채팅방을 구분하는 값
+            ChatRoomVo chatRoomVo = chatRoomService.findChatRoom(chatVo.getChatRoomNum());
+            chatVo = chatService.setChatVo(chatRoomVo, chatVo);
+            log.info("chatVo={}", chatVo);
+
+            template.convertAndSend("/sub/chat/room/" + chatVo.getChatRoomNum(), chatVo);
+        }
+
+        // 유저 퇴장 시에는 EventListener 를 통해서 유저 퇴장을 확인
+        @EventListener
+        public void disconnectListener(SessionDisconnectEvent event) {
+            log.info("DisconnectEvent={}", event);
+
+            StompHeaderAccessor headerAccessor = StompHeaderAccessor.wrap(event.getMessage());
+            log.info("headerAccessor={}", headerAccessor);
+
+            ChatVo chatVo = (ChatVo) headerAccessor.getSessionAttributes().get("chatVo");
+
+            ChatRoomVo chatRoom = chatRoomService.findChatRoom(chatVo.getChatRoomNum());
+
+            chatVo = chatService.setChatVo(chatRoom, chatVo);
+            chatVo.setChatContent(chatVo.getChatWriter() + "님이 채팅방에서 퇴장하였습니다.");
+            log.info("chatVo={}", chatVo);
+
+            chatRoomService.decrementUserCount(chatVo.getChatRoomNum()); // 채팅방 유저 -1
+            chatUserService.removeChatUser(chatVo); // 채팅 유저 제거
+
+            template.convertAndSend("/sub/chat/room/" + chatVo.getChatRoomNum(), chatVo);
+        }
+    }
+    ```
 
 ### 🔥개선사항
 - Spring Security를 적용한 인증/인가 처리
